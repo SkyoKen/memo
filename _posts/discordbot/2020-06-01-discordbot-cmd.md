@@ -2,8 +2,7 @@
 layout: 	post
 title: 		'【discordbot】添加指令功能'
 date:       	2020-05-31 18:00:00
-author: 	"SKyoKen"
-header-img: 	"img/post/post-discord.png"
+header-img: 	"/img/post/post-discord.png"
 tags:
   - discordbot
 ---

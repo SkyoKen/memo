@@ -3,10 +3,9 @@ layout: 	post
 title: 		'【discordbot】尝试做个discordbot'
 subtitle: 	"在树莓派下运行discordbot"
 date:       	2020-05-31 12:00:00
-author: 	"SKyoKen"
-header-img: 	"img/post/post-discord.png"
+header-img: 	"/img/post/post-discord.png"
 tags:
-  - 树莓派
+  - Raspberry Pi
   - discordbot
 ---
 ## 初期设定

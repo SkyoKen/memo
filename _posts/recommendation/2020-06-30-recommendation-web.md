@@ -1,7 +1,6 @@
 ---
 layout: post
 title: '【推荐系统】用Flask搭建一个简单的推荐系统'
-author: "SKyoKen"
 header-style: text
 tags:
   - 推荐系统

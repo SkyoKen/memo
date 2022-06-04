@@ -1,7 +1,6 @@
 ---
 layout: post
 title: '【推荐系统】协同过滤SVD,SVD++,NMF算法的使用'
-author: "SKyoKen"
 header-style: text
 tags:
   - 推荐系统

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Win10 Anaconda下TensorFlow-GPU2.0环境搭建"
-author: "SKyoKen"
 header-style: text
 tags:
   - Anaconda

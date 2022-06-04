@@ -2,9 +2,7 @@
 layout: 	post
 title: 		'【discordbot】写个复读机bot'
 date:       	2020-05-31 15:00:00
-author: 	"SKyoKen"
-header-img: 	"img/post/post-discord.png"
-#header-style: 	text
+header-img: 	"/img/post/post-discord.png"
 tags:
   - discordbot
 ---
