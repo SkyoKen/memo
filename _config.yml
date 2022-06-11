@@ -5,6 +5,7 @@ header-img: img/header-img.jpg
 description: 备忘
 keyword: "SKyoken,小狂犬也"
 #baseurl: "" 
+url: "https://skyoken.github.io"
 basrurl: "/memo"
 #url: "http://www.skyoken.work" 
 #host: 0.0.0.0
