@@ -4,11 +4,11 @@ SETOTitle: 备忘 | SKyoKen Memo
 header-img: img/header-img.jpg
 description: 备忘
 keyword: "SKyoken,小狂犬也"
-baseurl: "" 
-#basrurl: "/memo"
+#baseurl: "" 
+basrurl: "/memo"
 #url: "http://www.skyoken.work" 
-host: 0.0.0.0
-port: 8088
+#host: 0.0.0.0
+#port: 8088
 
 # SNS settings
 #weibo_username:     SkyoKen
