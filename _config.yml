@@ -1,7 +1,7 @@
 title: SkyoKen Memo
 email: skyoken@gmail.com
 SETOTitle: 备忘 | SKyoKen Memo
-header-img: img/header-img.jpg
+header-img: ./img/header-img.jpg
 description: 备忘
 keyword: "SKyoken,小狂犬也"
 #baseurl: "" 
@@ -71,7 +71,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "头疼于研究和就职的東京御宅大学留学汪"
-sidebar-avatar: /img/avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: ./img/avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
