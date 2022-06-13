@@ -104,6 +104,7 @@ docker stop 容器ID/容器名				#停止容器
 docker attach 容器ID/容器名				#进入容器，退出后运行停止
 docker exec -it 容器ID/容器名 /bin/bash #进入容器，退出后仍在后台运行
 docker rm 容器ID/容器名 					#删除容器
+docker rename 原容器名  新容器名		#容器重命名
 
 nvidia-smi								#查看GPU
 
